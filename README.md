@@ -48,7 +48,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 
 ## Post-MVP Ideas
 
-**Before attempting _any_ of these post-MVP ideas, you must demonstrate your working MVP to your instructor, then attempt these on a _new branch_ 
+*Before attempting post-MVP ideas, you must demonstrate your working MVP to your instructor, then attempt these on a _new branch_*
 
 - Hidden routes using conditional rendering to mimic the functionality of user authentication
 - Implement OAuth
