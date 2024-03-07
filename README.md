@@ -50,9 +50,9 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 
 *Before attempting post-MVP ideas, you must demonstrate your working MVP to your instructor, then attempt these on a _new branch_*
 
+- Implement JWT or OAuth
 - Hidden routes using conditional rendering to mimic the functionality of user authentication
-- Implement OAuth
-- Integrate a 3rd party API (Ask us for a list)
+- Integrate a 3rd party API
 
 ## A Note on Plagiarism
   
