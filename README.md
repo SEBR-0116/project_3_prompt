@@ -28,7 +28,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
 - Utilize flexbox or grid (or both)
 - Include a minimum of 3 Associated Mongoose Models
-- Have Full CRUD (CREATE, READ, UPDATE, DELETE) operations across Front and Back Ends
+- Have Full CRUD (CREATE, READ, UPDATE, DELETE) operations across Front and Back Ends 
 - Display data from each model on the frontend 
 - Must be able to navigate between different pages (React Router)
 - Have at least **50 _meaningful_ `git` commits**. You should be committing your changes every time you build a new feature.
@@ -44,7 +44,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Commit early (day one) and often (everytime you implement a new feature)
 - Implement all project requirements _before_ moving on to post-MVP features
 - Make it look professional (this is for you to showcase - it could land you a job)
-
+- Check the Axios documentation! https://axios-http.com/docs/api_intro
 
 ## Post-MVP Ideas
 
